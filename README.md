@@ -5,10 +5,14 @@ Este es un proyecto simple para hacer un sorteo de amigos. Sirve para elegir un 
 ## Cómo funciona
 
 1. Escribe el nombre de un amigo en la caja de texto
+![alt text](image.png)
 2. Haz clic en el botón "Agregar"
+![alt text](image-1.png)
 3. Repite para agregar más amigos
+
 4. Cuando tengas todos, haz clic en "Sortear amigo"
 5. ¡Listo! Verás qué amigo fue elegido
+![alt text](image-2.png)
 
 
 
